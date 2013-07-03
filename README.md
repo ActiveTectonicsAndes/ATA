@@ -10,7 +10,7 @@ For questions or concerns, please contact Richard Styron (richard.h.styron@gmail
 Installation
 ----------------
 
-These files are not executable and do not need to be installed.  Simply download them.
+These files are not executable and do not need to be installed.  Simply download them.  Note: If you're interested in this data mostly for your perusal and plotting, and not as much for development, please download the 'release' (click on the link above) and list the version number in any pubs.
 
 
 Plotting Data
