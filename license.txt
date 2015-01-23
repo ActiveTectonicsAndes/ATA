@@ -1,9 +1,13 @@
-This Active Tectonics of the Andes database (ATA) is Copyright (c) 2013, by Gabriel Veloza, Richard Styron and Michael Taylor.  All rights reserved.
+This Active Tectonics of the Andes database (ATA) is Copyright (c) 2013, 
+by Gabriel Veloza, Richard Styron and Michael Taylor.  All rights reserved.
 
-This copyright is intended to cover the compilation (database) and original content provided by the owners.  The contents of the database provided by or modified from other authors are not covered under this copyright or license.
+This copyright is intended to cover the compilation (database) and original 
+content provided by the owners.  The contents of the database provided by or 
+modified from other authors are not covered under this copyright or license.
 
 
-This Active Tectonics of the Andes database (ATA) is made available under the Open Data Commons Attribution License.
+This Active Tectonics of the Andes database (ATA) is made available 
+under the Open Data Commons Attribution License.
 
 
 
